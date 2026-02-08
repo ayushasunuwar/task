@@ -7,6 +7,6 @@ npm run dev
 
 cd backend
 
-npm install express mongoose bcrypt cors cookie-parser
+npm install express mongoose bcrypt cors cookie-parser jsonwebtoken
 
 npm run server
